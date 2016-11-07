@@ -1,5 +1,5 @@
 library(shiny)
-library(shinyapps)
+# library(shinyapps)
 languages <- c("english", "danish", "dutch", "finnish", 
                "french", "german", "hungarian", "italian",             
                "norwegian", "portuguese", "russian", "spanish", "swedish")
